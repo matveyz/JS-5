@@ -95,8 +95,8 @@ function k(object) {
 function m(array1, array2) {
     var newarray = [];
 
-    for (var i = 0; i < Arr1.length; i++){
-        newarray[i] = Arr1[i] + Arr2[i];
+    for (var i = 0; i < array1.length; i++){
+        newarray[i] = array1[i] + array2[i];
     }
 
     return newarray;
