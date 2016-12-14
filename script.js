@@ -1,9 +1,10 @@
 //a() => 5, typeof a() => number
 
-fuction () {
-
-	return 5;
+function a() {
+  return 5;
 }
+
+
 
 //b(1,15) => 16, b(55,3) => 58, b(-5, -5) => -10, typeof b() => number
 
